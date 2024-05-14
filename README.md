@@ -1,4 +1,4 @@
-# Team Info
+# Info
 
 ```
 Dataset Names: 03-movies
